@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi
+✨ My name is Cem, and I am a Mathematical Engineering graduate from Yıldız Technical University!
 
+Currently taking a breather from a long and arduous education journey, but I will be looking to slowly populate this page with projects of my own.
 <!--
 **cemkozcan/cemkozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
